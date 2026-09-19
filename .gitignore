@@ -17,3 +17,7 @@ Thumbs.db
 
 # Environment variables
 .env
+
+# Dataset
+data/raw/job_descriptions.csv
+dataset/
